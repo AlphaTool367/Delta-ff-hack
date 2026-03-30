@@ -1,0 +1,21 @@
+{
+  "version": "3.0",
+  "name": "DELTA NTAN PRO",
+  "expiry": "2026-12-31",
+  "features": {
+    "health": 10000,
+    "speed": 1000,
+    "aimbot": true,
+    "aimLock": true,
+    "noRecoil": true,
+    "antiReport": true,
+    "magicBullet": true,
+    "autoHeadshot": true,
+    "noGrass": true,
+    "noFog": true
+  },
+  "server": {
+    "status": "active",
+    "region": "global"
+  }
+}
