@@ -1,1 +1,2 @@
 
+{"login":"success","token":"delta_pro_2026","hack":true,"health":10000,"speed":1000,"aimbot":true}
